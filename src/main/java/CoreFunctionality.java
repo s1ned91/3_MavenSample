@@ -6,7 +6,7 @@ public class CoreFunctionality implements Functionality {
 
     private static final Logger log = LoggerFactory.getLogger(CoreFunctionality.class);
 
-    public void doSomething() {
+    public void  doSomething() {
         log.info("Executed.");
     }
 }
